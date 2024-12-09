@@ -1,6 +1,6 @@
-flask
-scikit-learn
-numpy
 pandas
-matplotlib
-seaborn
+scikit-learn
+xgboost
+catboost
+mlflow
+flask
